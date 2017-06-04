@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[浏览器下载文件的原理](https://github.com/icaoweiwei/icaoweiwei.github.io/edit/master/web/httpFileDownload.md)
+[浏览器下载文件的原理](/web/httpFileDownload)
 
 You can use the [editor on GitHub](https://github.com/icaoweiwei/icaoweiwei.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
